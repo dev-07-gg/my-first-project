@@ -1,0 +1,2 @@
+the project is about securing the systems of the nely made company
+we are supposed to do security testing e.g security breach testing by attacking and defending the system
