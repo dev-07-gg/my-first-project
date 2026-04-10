@@ -1,0 +1,6 @@
+linux system administration
+Shell scripting
+Git version control
+Network security hardening
+Troubleshooting and debugging
+
