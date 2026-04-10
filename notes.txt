@@ -1,0 +1,5 @@
+check the permissions 
+run an attack
+check the groups and their permissions
+build a defense on the atack
+
