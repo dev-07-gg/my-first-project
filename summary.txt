@@ -1,0 +1,2 @@
+The entire project is about testing the authenticity of the program.
+It also checks if their is any loopholes in the system
